@@ -1,0 +1,1 @@
+"D:\LeStoreDownload\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-7gvf5hanbe01dcc2 --n quickstartFunctions --r --project "D:\Musk\Projects\love-bridge-app" --report_first --report
